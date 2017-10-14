@@ -1,2 +1,2 @@
-# microservices-eventsourcing-cqrs-and-ddd-resources
-A collection of books, presentations, talks, papers, links, etc on microservices, event sourcing, cqrs and domain driven design
+# Microservices Event Sourcing CQRS and DDD Resources
+The purpose of this repo is to put together a collection of books, presentations, talks, papers, links, etc on microservices, event sourcing, cqrs and domain driven design.
