@@ -1,2 +1,2 @@
 ## DDD Resources
-Books, presentations, papers, links, ...
+* [Lightbend Reactive Architecture: Foundations](https://cognitiveclass.ai/learn/reactive-architecture-foundations)
