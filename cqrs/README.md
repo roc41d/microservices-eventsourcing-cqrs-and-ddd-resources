@@ -1,2 +1,2 @@
 ## CQRS Resources
-Books, presentations, papers, links, ...
+* [Reactive Architecture: CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs)
