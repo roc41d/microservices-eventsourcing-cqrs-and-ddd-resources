@@ -1,2 +1,2 @@
 ## Microservices Resources
-Books, presentations, papers, links, ...
+ * [Reactive Architecture: Reactive Microservices](https://cognitiveclass.ai/courses/reactive-architecture-microservices)
